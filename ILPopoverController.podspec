@@ -82,7 +82,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "ILPopoverController", "ILPopoverController/*.{h,m}"
-  s.public_header_files = "ILPopoverController/ILPopoverController.h", "ILPopoverController/ILPopoverActionItem.h", "ILPopoverController/ILPopoverImageItem.h", "ILPopoverController/ILPopoverTextItem.h", "ILPopoverController/ILPopoverTheme.h"
+  s.public_header_files = "ILPopoverController/ILPopoverController.h", "ILPopoverController/ILPopoverItem.h", "ILPopoverController/ILPopoverActionItem.h", "ILPopoverController/ILPopoverImageItem.h", "ILPopoverController/ILPopoverTextItem.h", "ILPopoverController/ILPopoverTheme.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
